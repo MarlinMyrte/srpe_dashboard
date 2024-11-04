@@ -3,4 +3,3 @@ pandas
 seaborn
 streamlit
 matplotlib
-matplotlib.pyplot
