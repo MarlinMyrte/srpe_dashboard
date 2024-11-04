@@ -60,9 +60,7 @@ if page == "RPE":
 
     sorted_filtered_df = sorted_filtered_df.droplevel('sort_arg')
 
-    sorted_filtered_df = sorted_filtered_df.style.background_gradient(cmap = cm, axis = 1)
-
-    sorted_filtered_df.data = sorted_filtered_df.data.round(0)
+    sorted_filtered_df = sorted_filtered_df.style.set_precision(0).background_gradient(cmap = cm, axis = 1)
 
     # Display the filtered DataFrame
     st.dataframe(sorted_filtered_df)
