@@ -1,0 +1,481 @@
+Player,Type,Metric,Date Range,Split 1,Metric Clean,Value
+Elias Rapieque,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,0
+Elias Rapieque,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,14
+Elias Rapieque,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,46
+Elias Rapieque,Basketball Game,max total_minutes,Total,max total,minutes,176
+Elias Rapieque,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,0
+Elias Rapieque,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,56
+Elias Rapieque,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,184
+Elias Rapieque,Basketball Game,max total_minutes4,Total,max total,minutes4,704
+Elias Rapieque,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,0
+Elias Rapieque,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,7
+Elias Rapieque,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,23
+Elias Rapieque,Basketball Game,max total_rpe,Total,max total,rpe,64
+Elias Rapieque,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,0
+Elias Rapieque,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,3.92
+Elias Rapieque,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,42.32
+Elias Rapieque,Basketball Game,max total_srpe100,Total,max total,srpe100,450.56
+Elias Rapieque,Practices,max 7d_minutes,Last 7d,max 7d,minutes,0
+Elias Rapieque,Practices,max 14d_minutes,Last 14d,max 14d,minutes,129
+Elias Rapieque,Practices,max 28d_minutes,Last 28d,max 28d,minutes,924
+Elias Rapieque,Practices,max total_minutes,Total,max total,minutes,4061
+Elias Rapieque,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,0
+Elias Rapieque,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,129
+Elias Rapieque,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,924
+Elias Rapieque,Practices,max total_minutes4,Total,max total,minutes4,4061
+Elias Rapieque,Practices,max 7d_rpe,Last 7d,max 7d,rpe,0
+Elias Rapieque,Practices,max 14d_rpe,Last 14d,max 14d,rpe,7
+Elias Rapieque,Practices,max 28d_rpe,Last 28d,max 28d,rpe,77
+Elias Rapieque,Practices,max total_rpe,Total,max total,rpe,386
+Elias Rapieque,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,0
+Elias Rapieque,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,9.03
+Elias Rapieque,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,711.48
+Elias Rapieque,Practices,max total_srpe100,Total,max total,srpe100,15675.46
+Gabriele Procida,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,73
+Gabriele Procida,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,92
+Gabriele Procida,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,223
+Gabriele Procida,Basketball Game,max total_minutes,Total,max total,minutes,346
+Gabriele Procida,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,292
+Gabriele Procida,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,368
+Gabriele Procida,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,892
+Gabriele Procida,Basketball Game,max total_minutes4,Total,max total,minutes4,1384
+Gabriele Procida,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,17
+Gabriele Procida,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,25
+Gabriele Procida,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,38
+Gabriele Procida,Basketball Game,max total_rpe,Total,max total,rpe,67
+Gabriele Procida,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,49.64
+Gabriele Procida,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,92
+Gabriele Procida,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,338.96
+Gabriele Procida,Basketball Game,max total_srpe100,Total,max total,srpe100,927.28
+Gabriele Procida,Practices,max 7d_minutes,Last 7d,max 7d,minutes,288
+Gabriele Procida,Practices,max 14d_minutes,Last 14d,max 14d,minutes,574
+Gabriele Procida,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1206
+Gabriele Procida,Practices,max total_minutes,Total,max total,minutes,3152
+Gabriele Procida,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,288
+Gabriele Procida,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,574
+Gabriele Procida,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1206
+Gabriele Procida,Practices,max total_minutes4,Total,max total,minutes4,3152
+Gabriele Procida,Practices,max 7d_rpe,Last 7d,max 7d,rpe,53
+Gabriele Procida,Practices,max 14d_rpe,Last 14d,max 14d,rpe,67
+Gabriele Procida,Practices,max 28d_rpe,Last 28d,max 28d,rpe,129
+Gabriele Procida,Practices,max total_rpe,Total,max total,rpe,259
+Gabriele Procida,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,152.64
+Gabriele Procida,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,384.58
+Gabriele Procida,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,1555.74
+Gabriele Procida,Practices,max total_srpe100,Total,max total,srpe100,8163.68
+Jonas Mattisseck,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,78
+Jonas Mattisseck,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,123
+Jonas Mattisseck,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,169
+Jonas Mattisseck,Basketball Game,max total_minutes,Total,max total,minutes,295
+Jonas Mattisseck,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,312
+Jonas Mattisseck,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,492
+Jonas Mattisseck,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,676
+Jonas Mattisseck,Basketball Game,max total_minutes4,Total,max total,minutes4,1180
+Jonas Mattisseck,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,12
+Jonas Mattisseck,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,28
+Jonas Mattisseck,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,45
+Jonas Mattisseck,Basketball Game,max total_rpe,Total,max total,rpe,72
+Jonas Mattisseck,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,37.44
+Jonas Mattisseck,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,137.76
+Jonas Mattisseck,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,304.2
+Jonas Mattisseck,Basketball Game,max total_srpe100,Total,max total,srpe100,849.6
+Jonas Mattisseck,Practices,max 7d_minutes,Last 7d,max 7d,minutes,253
+Jonas Mattisseck,Practices,max 14d_minutes,Last 14d,max 14d,minutes,494
+Jonas Mattisseck,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1061
+Jonas Mattisseck,Practices,max total_minutes,Total,max total,minutes,3759
+Jonas Mattisseck,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,253
+Jonas Mattisseck,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,494
+Jonas Mattisseck,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1061
+Jonas Mattisseck,Practices,max total_minutes4,Total,max total,minutes4,3759
+Jonas Mattisseck,Practices,max 7d_rpe,Last 7d,max 7d,rpe,30
+Jonas Mattisseck,Practices,max 14d_rpe,Last 14d,max 14d,rpe,41
+Jonas Mattisseck,Practices,max 28d_rpe,Last 28d,max 28d,rpe,78
+Jonas Mattisseck,Practices,max total_rpe,Total,max total,rpe,288
+Jonas Mattisseck,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,75.9
+Jonas Mattisseck,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,202.54
+Jonas Mattisseck,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,827.58
+Jonas Mattisseck,Practices,max total_srpe100,Total,max total,srpe100,10825.92
+Justin Bean,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,88
+Justin Bean,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,150
+Justin Bean,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,206
+Justin Bean,Basketball Game,max total_minutes,Total,max total,minutes,346
+Justin Bean,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,352
+Justin Bean,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,600
+Justin Bean,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,824
+Justin Bean,Basketball Game,max total_minutes4,Total,max total,minutes4,1384
+Justin Bean,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,16
+Justin Bean,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,36
+Justin Bean,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,58
+Justin Bean,Basketball Game,max total_rpe,Total,max total,rpe,101
+Justin Bean,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,56.32
+Justin Bean,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,216
+Justin Bean,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,477.92
+Justin Bean,Basketball Game,max total_srpe100,Total,max total,srpe100,1397.84
+Justin Bean,Practices,max 7d_minutes,Last 7d,max 7d,minutes,223
+Justin Bean,Practices,max 14d_minutes,Last 14d,max 14d,minutes,464
+Justin Bean,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1079
+Justin Bean,Practices,max total_minutes,Total,max total,minutes,4086
+Justin Bean,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,223
+Justin Bean,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,464
+Justin Bean,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1079
+Justin Bean,Practices,max total_minutes4,Total,max total,minutes4,4086
+Justin Bean,Practices,max 7d_rpe,Last 7d,max 7d,rpe,24
+Justin Bean,Practices,max 14d_rpe,Last 14d,max 14d,rpe,41
+Justin Bean,Practices,max 28d_rpe,Last 28d,max 28d,rpe,95
+Justin Bean,Practices,max total_rpe,Total,max total,rpe,328
+Justin Bean,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,53.52
+Justin Bean,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,190.24
+Justin Bean,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,1025.05
+Justin Bean,Practices,max total_srpe100,Total,max total,srpe100,13402.08
+Khalifa Koumadje,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,75
+Khalifa Koumadje,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,117
+Khalifa Koumadje,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,179
+Khalifa Koumadje,Basketball Game,max total_minutes,Total,max total,minutes,351
+Khalifa Koumadje,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,300
+Khalifa Koumadje,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,468
+Khalifa Koumadje,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,716
+Khalifa Koumadje,Basketball Game,max total_minutes4,Total,max total,minutes4,1404
+Khalifa Koumadje,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,12
+Khalifa Koumadje,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,33
+Khalifa Koumadje,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,56
+Khalifa Koumadje,Basketball Game,max total_rpe,Total,max total,rpe,106
+Khalifa Koumadje,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,36
+Khalifa Koumadje,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,154.44
+Khalifa Koumadje,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,400.96
+Khalifa Koumadje,Basketball Game,max total_srpe100,Total,max total,srpe100,1488.24
+Khalifa Koumadje,Practices,max 7d_minutes,Last 7d,max 7d,minutes,243
+Khalifa Koumadje,Practices,max 14d_minutes,Last 14d,max 14d,minutes,484
+Khalifa Koumadje,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1294
+Khalifa Koumadje,Practices,max total_minutes,Total,max total,minutes,4151
+Khalifa Koumadje,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,243
+Khalifa Koumadje,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,484
+Khalifa Koumadje,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1294
+Khalifa Koumadje,Practices,max total_minutes4,Total,max total,minutes4,4151
+Khalifa Koumadje,Practices,max 7d_rpe,Last 7d,max 7d,rpe,35
+Khalifa Koumadje,Practices,max 14d_rpe,Last 14d,max 14d,rpe,51
+Khalifa Koumadje,Practices,max 28d_rpe,Last 28d,max 28d,rpe,140
+Khalifa Koumadje,Practices,max total_rpe,Total,max total,rpe,363
+Khalifa Koumadje,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,85.05
+Khalifa Koumadje,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,246.84
+Khalifa Koumadje,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,1811.6
+Khalifa Koumadje,Practices,max total_srpe100,Total,max total,srpe100,15068.13
+Louis Olinde,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,86
+Louis Olinde,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,163
+Louis Olinde,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,232
+Louis Olinde,Basketball Game,max total_minutes,Total,max total,minutes,418
+Louis Olinde,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,344
+Louis Olinde,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,652
+Louis Olinde,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,928
+Louis Olinde,Basketball Game,max total_minutes4,Total,max total,minutes4,1672
+Louis Olinde,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,18
+Louis Olinde,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,43
+Louis Olinde,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,67
+Louis Olinde,Basketball Game,max total_rpe,Total,max total,rpe,125
+Louis Olinde,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,61.92
+Louis Olinde,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,280.36
+Louis Olinde,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,621.76
+Louis Olinde,Basketball Game,max total_srpe100,Total,max total,srpe100,2090
+Louis Olinde,Practices,max 7d_minutes,Last 7d,max 7d,minutes,176
+Louis Olinde,Practices,max 14d_minutes,Last 14d,max 14d,minutes,442
+Louis Olinde,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1227
+Louis Olinde,Practices,max total_minutes,Total,max total,minutes,4131
+Louis Olinde,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,176
+Louis Olinde,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,442
+Louis Olinde,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1227
+Louis Olinde,Practices,max total_minutes4,Total,max total,minutes4,4131
+Louis Olinde,Practices,max 7d_rpe,Last 7d,max 7d,rpe,21
+Louis Olinde,Practices,max 14d_rpe,Last 14d,max 14d,rpe,45
+Louis Olinde,Practices,max 28d_rpe,Last 28d,max 28d,rpe,99
+Louis Olinde,Practices,max total_rpe,Total,max total,rpe,341
+Louis Olinde,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,36.96
+Louis Olinde,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,198.9
+Louis Olinde,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,1214.73
+Louis Olinde,Practices,max total_srpe100,Total,max total,srpe100,14086.71
+Malte Delow,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,0
+Malte Delow,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,0
+Malte Delow,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,0
+Malte Delow,Basketball Game,max total_minutes,Total,max total,minutes,140
+Malte Delow,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,0
+Malte Delow,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,0
+Malte Delow,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,0
+Malte Delow,Basketball Game,max total_minutes4,Total,max total,minutes4,560
+Malte Delow,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,0
+Malte Delow,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,0
+Malte Delow,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,0
+Malte Delow,Basketball Game,max total_rpe,Total,max total,rpe,33
+Malte Delow,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,0
+Malte Delow,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,0
+Malte Delow,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,0
+Malte Delow,Basketball Game,max total_srpe100,Total,max total,srpe100,184.8
+Malte Delow,Practices,max 7d_minutes,Last 7d,max 7d,minutes,0
+Malte Delow,Practices,max 14d_minutes,Last 14d,max 14d,minutes,0
+Malte Delow,Practices,max 28d_minutes,Last 28d,max 28d,minutes,0
+Malte Delow,Practices,max total_minutes,Total,max total,minutes,2139
+Malte Delow,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,0
+Malte Delow,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,0
+Malte Delow,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,0
+Malte Delow,Practices,max total_minutes4,Total,max total,minutes4,2139
+Malte Delow,Practices,max 7d_rpe,Last 7d,max 7d,rpe,0
+Malte Delow,Practices,max 14d_rpe,Last 14d,max 14d,rpe,0
+Malte Delow,Practices,max 28d_rpe,Last 28d,max 28d,rpe,0
+Malte Delow,Practices,max total_rpe,Total,max total,rpe,158
+Malte Delow,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,0
+Malte Delow,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,0
+Malte Delow,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,0
+Malte Delow,Practices,max total_srpe100,Total,max total,srpe100,3379.62
+Martin Hermannsson,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,86
+Martin Hermannsson,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,164
+Martin Hermannsson,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,244
+Martin Hermannsson,Basketball Game,max total_minutes,Total,max total,minutes,362
+Martin Hermannsson,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,344
+Martin Hermannsson,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,656
+Martin Hermannsson,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,976
+Martin Hermannsson,Basketball Game,max total_minutes4,Total,max total,minutes4,1448
+Martin Hermannsson,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,16
+Martin Hermannsson,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,39
+Martin Hermannsson,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,66
+Martin Hermannsson,Basketball Game,max total_rpe,Total,max total,rpe,118
+Martin Hermannsson,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,55.04
+Martin Hermannsson,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,255.84
+Martin Hermannsson,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,644.16
+Martin Hermannsson,Basketball Game,max total_srpe100,Total,max total,srpe100,1708.64
+Martin Hermannsson,Practices,max 7d_minutes,Last 7d,max 7d,minutes,223
+Martin Hermannsson,Practices,max 14d_minutes,Last 14d,max 14d,minutes,464
+Martin Hermannsson,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1222
+Martin Hermannsson,Practices,max total_minutes,Total,max total,minutes,4098
+Martin Hermannsson,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,223
+Martin Hermannsson,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,464
+Martin Hermannsson,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1222
+Martin Hermannsson,Practices,max total_minutes4,Total,max total,minutes4,4098
+Martin Hermannsson,Practices,max 7d_rpe,Last 7d,max 7d,rpe,23
+Martin Hermannsson,Practices,max 14d_rpe,Last 14d,max 14d,rpe,38
+Martin Hermannsson,Practices,max 28d_rpe,Last 28d,max 28d,rpe,99
+Martin Hermannsson,Practices,max total_rpe,Total,max total,rpe,350
+Martin Hermannsson,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,51.29
+Martin Hermannsson,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,176.32
+Martin Hermannsson,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,1209.78
+Martin Hermannsson,Practices,max total_srpe100,Total,max total,srpe100,14343
+Matt Thomas,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,0
+Matt Thomas,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,0
+Matt Thomas,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,0
+Matt Thomas,Basketball Game,max total_minutes,Total,max total,minutes,13
+Matt Thomas,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,0
+Matt Thomas,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,0
+Matt Thomas,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,0
+Matt Thomas,Basketball Game,max total_minutes4,Total,max total,minutes4,52
+Matt Thomas,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,0
+Matt Thomas,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,0
+Matt Thomas,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,0
+Matt Thomas,Basketball Game,max total_rpe,Total,max total,rpe,6
+Matt Thomas,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,0
+Matt Thomas,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,0
+Matt Thomas,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,0
+Matt Thomas,Basketball Game,max total_srpe100,Total,max total,srpe100,3.12
+Matt Thomas,Practices,max 7d_minutes,Last 7d,max 7d,minutes,35
+Matt Thomas,Practices,max 14d_minutes,Last 14d,max 14d,minutes,35
+Matt Thomas,Practices,max 28d_minutes,Last 28d,max 28d,minutes,95
+Matt Thomas,Practices,max total_minutes,Total,max total,minutes,2208
+Matt Thomas,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,35
+Matt Thomas,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,35
+Matt Thomas,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,95
+Matt Thomas,Practices,max total_minutes4,Total,max total,minutes4,2208
+Matt Thomas,Practices,max 7d_rpe,Last 7d,max 7d,rpe,5
+Matt Thomas,Practices,max 14d_rpe,Last 14d,max 14d,rpe,5
+Matt Thomas,Practices,max 28d_rpe,Last 28d,max 28d,rpe,15
+Matt Thomas,Practices,max total_rpe,Total,max total,rpe,193
+Matt Thomas,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,1.75
+Matt Thomas,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,1.75
+Matt Thomas,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,14.25
+Matt Thomas,Practices,max total_srpe100,Total,max total,srpe100,4261.44
+Matteo Spagnolo,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,82
+Matteo Spagnolo,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,152
+Matteo Spagnolo,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,198
+Matteo Spagnolo,Basketball Game,max total_minutes,Total,max total,minutes,312
+Matteo Spagnolo,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,328
+Matteo Spagnolo,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,608
+Matteo Spagnolo,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,792
+Matteo Spagnolo,Basketball Game,max total_minutes4,Total,max total,minutes4,1248
+Matteo Spagnolo,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,16
+Matteo Spagnolo,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,41
+Matteo Spagnolo,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,61
+Matteo Spagnolo,Basketball Game,max total_rpe,Total,max total,rpe,108
+Matteo Spagnolo,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,52.48
+Matteo Spagnolo,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,249.28
+Matteo Spagnolo,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,483.12
+Matteo Spagnolo,Basketball Game,max total_srpe100,Total,max total,srpe100,1347.84
+Matteo Spagnolo,Practices,max 7d_minutes,Last 7d,max 7d,minutes,288
+Matteo Spagnolo,Practices,max 14d_minutes,Last 14d,max 14d,minutes,529
+Matteo Spagnolo,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1319
+Matteo Spagnolo,Practices,max total_minutes,Total,max total,minutes,3721
+Matteo Spagnolo,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,288
+Matteo Spagnolo,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,529
+Matteo Spagnolo,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1319
+Matteo Spagnolo,Practices,max total_minutes4,Total,max total,minutes4,3721
+Matteo Spagnolo,Practices,max 7d_rpe,Last 7d,max 7d,rpe,47
+Matteo Spagnolo,Practices,max 14d_rpe,Last 14d,max 14d,rpe,55
+Matteo Spagnolo,Practices,max 28d_rpe,Last 28d,max 28d,rpe,135
+Matteo Spagnolo,Practices,max total_rpe,Total,max total,rpe,332
+Matteo Spagnolo,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,135.36
+Matteo Spagnolo,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,290.95
+Matteo Spagnolo,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,1780.65
+Matteo Spagnolo,Practices,max total_srpe100,Total,max total,srpe100,12353.72
+Tim Schneider,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,74
+Tim Schneider,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,105
+Tim Schneider,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,230
+Tim Schneider,Basketball Game,max total_minutes,Total,max total,minutes,262
+Tim Schneider,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,296
+Tim Schneider,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,420
+Tim Schneider,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,920
+Tim Schneider,Basketball Game,max total_minutes4,Total,max total,minutes4,1048
+Tim Schneider,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,13
+Tim Schneider,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,33
+Tim Schneider,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,42
+Tim Schneider,Basketball Game,max total_rpe,Total,max total,rpe,55
+Tim Schneider,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,38.48
+Tim Schneider,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,138.6
+Tim Schneider,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,386.4
+Tim Schneider,Basketball Game,max total_srpe100,Total,max total,srpe100,576.4
+Tim Schneider,Practices,max 7d_minutes,Last 7d,max 7d,minutes,253
+Tim Schneider,Practices,max 14d_minutes,Last 14d,max 14d,minutes,579
+Tim Schneider,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1393
+Tim Schneider,Practices,max total_minutes,Total,max total,minutes,3540
+Tim Schneider,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,253
+Tim Schneider,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,579
+Tim Schneider,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1393
+Tim Schneider,Practices,max total_minutes4,Total,max total,minutes4,3540
+Tim Schneider,Practices,max 7d_rpe,Last 7d,max 7d,rpe,35
+Tim Schneider,Practices,max 14d_rpe,Last 14d,max 14d,rpe,63
+Tim Schneider,Practices,max 28d_rpe,Last 28d,max 28d,rpe,139
+Tim Schneider,Practices,max total_rpe,Total,max total,rpe,316
+Tim Schneider,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,88.55
+Tim Schneider,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,364.77
+Tim Schneider,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,1936.27
+Tim Schneider,Practices,max total_srpe100,Total,max total,srpe100,11186.4
+Trevion Williams,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,0
+Trevion Williams,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,68
+Trevion Williams,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,135
+Trevion Williams,Basketball Game,max total_minutes,Total,max total,minutes,335
+Trevion Williams,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,0
+Trevion Williams,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,272
+Trevion Williams,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,540
+Trevion Williams,Basketball Game,max total_minutes4,Total,max total,minutes4,1340
+Trevion Williams,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,0
+Trevion Williams,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,21
+Trevion Williams,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,44
+Trevion Williams,Basketball Game,max total_rpe,Total,max total,rpe,95
+Trevion Williams,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,0
+Trevion Williams,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,57.12
+Trevion Williams,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,237.6
+Trevion Williams,Basketball Game,max total_srpe100,Total,max total,srpe100,1273
+Trevion Williams,Practices,max 7d_minutes,Last 7d,max 7d,minutes,0
+Trevion Williams,Practices,max 14d_minutes,Last 14d,max 14d,minutes,179
+Trevion Williams,Practices,max 28d_minutes,Last 28d,max 28d,minutes,944
+Trevion Williams,Practices,max total_minutes,Total,max total,minutes,3501
+Trevion Williams,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,0
+Trevion Williams,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,179
+Trevion Williams,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,944
+Trevion Williams,Practices,max total_minutes4,Total,max total,minutes4,3501
+Trevion Williams,Practices,max 7d_rpe,Last 7d,max 7d,rpe,0
+Trevion Williams,Practices,max 14d_rpe,Last 14d,max 14d,rpe,12
+Trevion Williams,Practices,max 28d_rpe,Last 28d,max 28d,rpe,70
+Trevion Williams,Practices,max total_rpe,Total,max total,rpe,251
+Trevion Williams,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,0
+Trevion Williams,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,21.48
+Trevion Williams,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,660.8
+Trevion Williams,Practices,max total_srpe100,Total,max total,srpe100,8787.51
+Will McDowell-White,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,74
+Will McDowell-White,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,103
+Will McDowell-White,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,142
+Will McDowell-White,Basketball Game,max total_minutes,Total,max total,minutes,272
+Will McDowell-White,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,296
+Will McDowell-White,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,412
+Will McDowell-White,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,568
+Will McDowell-White,Basketball Game,max total_minutes4,Total,max total,minutes4,1088
+Will McDowell-White,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,15
+Will McDowell-White,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,31
+Will McDowell-White,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,55
+Will McDowell-White,Basketball Game,max total_rpe,Total,max total,rpe,112
+Will McDowell-White,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,44.4
+Will McDowell-White,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,127.72
+Will McDowell-White,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,312.4
+Will McDowell-White,Basketball Game,max total_srpe100,Total,max total,srpe100,1218.56
+Will McDowell-White,Practices,max 7d_minutes,Last 7d,max 7d,minutes,223
+Will McDowell-White,Practices,max 14d_minutes,Last 14d,max 14d,minutes,464
+Will McDowell-White,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1134
+Will McDowell-White,Practices,max total_minutes,Total,max total,minutes,4096
+Will McDowell-White,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,223
+Will McDowell-White,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,464
+Will McDowell-White,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1134
+Will McDowell-White,Practices,max total_minutes4,Total,max total,minutes4,4096
+Will McDowell-White,Practices,max 7d_rpe,Last 7d,max 7d,rpe,20
+Will McDowell-White,Practices,max 14d_rpe,Last 14d,max 14d,rpe,33
+Will McDowell-White,Practices,max 28d_rpe,Last 28d,max 28d,rpe,91
+Will McDowell-White,Practices,max total_rpe,Total,max total,rpe,303
+Will McDowell-White,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,44.6
+Will McDowell-White,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,153.12
+Will McDowell-White,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,1031.94
+Will McDowell-White,Practices,max total_srpe100,Total,max total,srpe100,12410.88
+Yanni Wetzell,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,83
+Yanni Wetzell,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,151
+Yanni Wetzell,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,219
+Yanni Wetzell,Basketball Game,max total_minutes,Total,max total,minutes,334
+Yanni Wetzell,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,332
+Yanni Wetzell,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,604
+Yanni Wetzell,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,876
+Yanni Wetzell,Basketball Game,max total_minutes4,Total,max total,minutes4,1336
+Yanni Wetzell,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,19
+Yanni Wetzell,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,42
+Yanni Wetzell,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,69
+Yanni Wetzell,Basketball Game,max total_rpe,Total,max total,rpe,120
+Yanni Wetzell,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,63.08
+Yanni Wetzell,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,253.68
+Yanni Wetzell,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,604.44
+Yanni Wetzell,Basketball Game,max total_srpe100,Total,max total,srpe100,1603.2
+Yanni Wetzell,Practices,max 7d_minutes,Last 7d,max 7d,minutes,223
+Yanni Wetzell,Practices,max 14d_minutes,Last 14d,max 14d,minutes,464
+Yanni Wetzell,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1148
+Yanni Wetzell,Practices,max total_minutes,Total,max total,minutes,3699
+Yanni Wetzell,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,223
+Yanni Wetzell,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,464
+Yanni Wetzell,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1148
+Yanni Wetzell,Practices,max total_minutes4,Total,max total,minutes4,3699
+Yanni Wetzell,Practices,max 7d_rpe,Last 7d,max 7d,rpe,24
+Yanni Wetzell,Practices,max 14d_rpe,Last 14d,max 14d,rpe,36
+Yanni Wetzell,Practices,max 28d_rpe,Last 28d,max 28d,rpe,90
+Yanni Wetzell,Practices,max total_rpe,Total,max total,rpe,290
+Yanni Wetzell,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,53.52
+Yanni Wetzell,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,167.04
+Yanni Wetzell,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,1033.2
+Yanni Wetzell,Practices,max total_srpe100,Total,max total,srpe100,10727.1
+Ziga Samar,Basketball Game,max 7d_minutes,Last 7d,max 7d,minutes,60
+Ziga Samar,Basketball Game,max 14d_minutes,Last 14d,max 14d,minutes,60
+Ziga Samar,Basketball Game,max 28d_minutes,Last 28d,max 28d,minutes,60
+Ziga Samar,Basketball Game,max total_minutes,Total,max total,minutes,60
+Ziga Samar,Basketball Game,max 7d_minutes4,Last 7d,max 7d,minutes4,240
+Ziga Samar,Basketball Game,max 14d_minutes4,Last 14d,max 14d,minutes4,240
+Ziga Samar,Basketball Game,max 28d_minutes4,Last 28d,max 28d,minutes4,240
+Ziga Samar,Basketball Game,max total_minutes4,Total,max total,minutes4,240
+Ziga Samar,Basketball Game,max 7d_rpe,Last 7d,max 7d,rpe,3
+Ziga Samar,Basketball Game,max 14d_rpe,Last 14d,max 14d,rpe,3
+Ziga Samar,Basketball Game,max 28d_rpe,Last 28d,max 28d,rpe,3
+Ziga Samar,Basketball Game,max total_rpe,Total,max total,rpe,3
+Ziga Samar,Basketball Game,max 7d_srpe100,Last 7d,max 7d,srpe100,7.2
+Ziga Samar,Basketball Game,max 14d_srpe100,Last 14d,max 14d,srpe100,7.2
+Ziga Samar,Basketball Game,max 28d_srpe100,Last 28d,max 28d,srpe100,7.2
+Ziga Samar,Basketball Game,max total_srpe100,Total,max total,srpe100,7.2
+Ziga Samar,Practices,max 7d_minutes,Last 7d,max 7d,minutes,223
+Ziga Samar,Practices,max 14d_minutes,Last 14d,max 14d,minutes,524
+Ziga Samar,Practices,max 28d_minutes,Last 28d,max 28d,minutes,1173
+Ziga Samar,Practices,max total_minutes,Total,max total,minutes,1534
+Ziga Samar,Practices,max 7d_minutes4,Last 7d,max 7d,minutes4,223
+Ziga Samar,Practices,max 14d_minutes4,Last 14d,max 14d,minutes4,524
+Ziga Samar,Practices,max 28d_minutes4,Last 28d,max 28d,minutes4,1173
+Ziga Samar,Practices,max total_minutes4,Total,max total,minutes4,1534
+Ziga Samar,Practices,max 7d_rpe,Last 7d,max 7d,rpe,17
+Ziga Samar,Practices,max 14d_rpe,Last 14d,max 14d,rpe,33
+Ziga Samar,Practices,max 28d_rpe,Last 28d,max 28d,rpe,83
+Ziga Samar,Practices,max total_rpe,Total,max total,rpe,117
+Ziga Samar,Practices,max 7d_srpe100,Last 7d,max 7d,srpe100,37.91
+Ziga Samar,Practices,max 14d_srpe100,Last 14d,max 14d,srpe100,172.92
+Ziga Samar,Practices,max 28d_srpe100,Last 28d,max 28d,srpe100,973.59
+Ziga Samar,Practices,max total_srpe100,Total,max total,srpe100,1794.78
