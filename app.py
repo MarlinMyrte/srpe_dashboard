@@ -62,10 +62,10 @@ if page == "RPE":
 
     sorted_filtered_df = sorted_filtered_df.style.background_gradient(cmap = cm, axis = 1)
 
-    sorted_filtered_df = sorted_filtered_df.round(0)
+    #sorted_filtered_df = sorted_filtered_df.round(0)
 
     # Display the filtered DataFrame
-    st.dataframe(sorted_filtered_df)
+    st.dataframe(sorted_filtered_df.round(0))
 
 elif page == "RPE [Player]":
     player_df = pd.read_csv("player_charts_data_looker_upload.csv")
