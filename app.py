@@ -11,6 +11,8 @@ page = st.sidebar.radio("Go to", ["RPE", "RPE [Player]"])
 
 if page == "RPE":
 
+    pandas.set_option("display.precision", 0)
+
     df = pd.read_csv("data_table_looker_upload.csv")
 
     df.drop(columns = ["Split 1", "Metric"], inplace = True)
